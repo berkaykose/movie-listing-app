@@ -1,4 +1,4 @@
-This projects main idea is searching movies that provided by an API called omdb. It consists of two main components. One of them is search card and other one is for displaying the movie or movies. The autocomplete field allows you to search by any keyword or full-text. After search is complete you can see the movies that you're looking for. It also provides you to keep your previous searches in the cache and with that you dont have to send request for the same movies your searched before. 
+This projects main idea is searching movies that provided by an API called omdb. It consists of two main components. One of them is search card and other one is for displaying the movie or movies. The autocomplete field allows you to search by any keyword or full-text. After search is complete you can see the movies that you're looking for. It also provides you to keep your previous searches in the cache and with that you dont have to send request for the same movies your searched before. And here's the project deployed online: https://berkaykose.github.io/movie-listing-app/
 
 # movie-listing-app
 
